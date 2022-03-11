@@ -1,0 +1,7 @@
+C:\Users\timo.steinbrech\source\repos\TestUpdate\TestApp\obj\Debug\net5.0-windows\TestApp.csproj.AssemblyReference.cache
+C:\Users\timo.steinbrech\source\repos\TestUpdate\TestApp\obj\Debug\net5.0-windows\TestApp.Form1.resources
+C:\Users\timo.steinbrech\source\repos\TestUpdate\TestApp\obj\Debug\net5.0-windows\TestApp.csproj.GenerateResource.cache
+C:\Users\timo.steinbrech\source\repos\TestUpdate\TestApp\obj\Debug\net5.0-windows\TestApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timo.steinbrech\source\repos\TestUpdate\TestApp\obj\Debug\net5.0-windows\TestApp.AssemblyInfoInputs.cache
+C:\Users\timo.steinbrech\source\repos\TestUpdate\TestApp\obj\Debug\net5.0-windows\TestApp.AssemblyInfo.cs
+C:\Users\timo.steinbrech\source\repos\TestUpdate\TestApp\obj\Debug\net5.0-windows\TestApp.csproj.CoreCompileInputs.cache
